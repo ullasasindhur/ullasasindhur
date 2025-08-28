@@ -1,34 +1,97 @@
-# 💫 About Me:
-🌱 I’m currently exploring the world of Golang and Kubernetes, two powerful and popular technologies that can help me create scalable and reliable applications.<br>👯 I’m always open to collaborate on projects that involve AWS/DevOps/Golang, as I have experience and interest in these domains.<br>📝 I enjoy writing and sharing my knowledge on my blog, where you can find articles on various topics related to development, cloud, and DevOps. You can check it out [here](https://blogfordevelopers.hashnode.dev).<br>💬 I’m happy to answer any questions you might have about Terraform, Jenkins, AWS, and Docker, as these are some of the tools I use frequently in my work.<br>📫 If you want to get in touch with me, you can send me an [email](mailto:upsy.0515@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ullasasindhur/).<br>📄 If you want to know more about my professional background and achievements, you can download my resume [here](https://drive.google.com/file/d/1qlyay0tsc1SSfHHFTYQmFigPT-eBAbgU/view?usp=sharing).<br>⚡ A fun fact about me is that I think I’m an ambivert, which means I can handle a variety of tasks and environments. I don’t mind working alone or in a team, and I can switch between creative and analytical thinking.
+<!-- GitHub Profile README for Ullasa Sindhur -->
 
+<h1 align="center">👋 Hi, I'm Ullasa Sindhur</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud | Automation | SRE</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ullasasindhur) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ullasasindhur) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ullasasindhur) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ullasasindhur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ullasasindhur&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ullasasindhur&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ullasasindhur&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ullasasindhur&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="center">
+  <a href="mailto:ullasasindhur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/ullasasindhur"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ullasasindhur"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/ullasasindhur"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ullasasindhur&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ullasasindhur) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ullasasindhur) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ullasasindhur) 
+## 🌟 About Me
+💼 **DevOps Engineer III @ Granicus** — leading high‑impact projects in **cloud, infrastructure automation, and CI/CD**.  
+🔹 Skilled in **large‑scale migrations**, **cost optimisation**, and **pipeline modernisation**.  
+📈 Strong believer in automation, reliability, and scalability.  
+📚 Always exploring better ways to bridge **code and operations**.  
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chef-ff9900?style=for-the-badge&logo=chef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/APM%20Tools-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Career Highlights
+- Led **cloud-to-on-prem migration** with OS upgrades and app redeployment.  
+- Configured and deployed Redis & MySQL on‑premise for performance and cost gains.  
+- Reduced **cloud costs by 23%** via optimisation and resource management.  
+- Migrated **Azure MySQL** with **near-zero downtime**.  
+- Implemented ELK Stack with Akamai Datastream2 for enhanced observability.  
+- Introduced Infrastructure as Code with Terraform, reducing manual errors.  
+- Refactored CI/CD pipelines, cutting execution time by **9%**.  
+
+---
+
+## 🎓 Certifications
+- **Microsoft Azure Fundamentals (AZ‑900)**  
+- **Advanced Golang Certificate – KodeKloud**  
+- **Golang Certificate – KodeKloud**  
+
+---
+
+## 📊 GitHub Insights
+
+<!-- Stats & Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ullasasindhur&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ullasasindhur&layout=compact&theme=radical&hide_border=true" height="165" />
+</p>
+
+<!-- Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ullasasindhur&theme=radical" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ullasasindhur&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<!-- Repo Pin Cards -->
+<p align="center">
+  <a href="https://github.com/ullasasindhur/bunny-stream-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ullasasindhur&repo=bunny-stream-server&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/ullasasindhur/go-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ullasasindhur&repo=go-learning&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>🛠 "In DevOps, success isn’t just deploying faster — it’s delivering value reliably, repeatedly, and without surprises."</i>
+</p>
